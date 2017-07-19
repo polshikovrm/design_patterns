@@ -1,4 +1,4 @@
-  > Проект описывает основные шаблоны проектирования с примерами на php 
+  > Проект описывает основные шаблоны проектирования с примерами на php / 
   >The project describes the basic design patterns with examples on php.
 
 
