@@ -2,7 +2,7 @@
   >The project describes the basic design patterns with examples on php.
 
 
-##### Порождающие шаблоны / Creational patterns ##### 
+### Порождающие шаблоны / Creational patterns ##### 
 
  -  __Абстрактная фабрика - Abstract factory__   
  -  __Строитель / Builder__
@@ -13,7 +13,7 @@
  - __Одиночка / Singleton__
  - __Пул одиночек / Multiton__
 
-#### Структурные шаблоны проектирования / Structure patterns ##### 
+### Структурные шаблоны проектирования / Structure patterns ##### 
 
 
  - __Адаптер Adapter__
@@ -24,7 +24,7 @@
  - __Приспособленец / Flyweight__
  - __Заместитель / Proxy__
 
-#### Поведенческие шаблоны проектирования / Behavioral patterns ##### 
+### Поведенческие шаблоны проектирования / Behavioral patterns ##### 
 
  - __Цепочка ответственности / Chain of responsibilily__
  - __Команда / Command__
@@ -41,6 +41,6 @@
  - __Шаблонный метод / Template method__
  - __Посетитель / Visitor__
  - __Простая политика / Simple Policy__
- - __Слушатель событий Event listener__
- - __Одноразовый посетитель Single-serving visitor__
- - __Иерархический посетитель Hierarchical visitor__
+ - __Слушатель событий / Event listener__
+ - __Одноразовый посетитель / Single-serving visitor__
+ - __Иерархический посетитель / Hierarchical visitor__
